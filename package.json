@@ -7,9 +7,13 @@
     "start": "./node_modules/.bin/nodemon index.js"
   },
   "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.18.2",
     "request": "^2.88.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": "git@github.com:MiaChen-TNUA/221219_nodejs.git",
+  "author": "MiaChen-TNUA <b10962034@gmcc.tnua.edu.tw>"
 }
